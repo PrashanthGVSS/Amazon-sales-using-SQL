@@ -1,2 +1,2 @@
-# Capstone-projects
-This folder includes SQL, Python, Machine learning end to end capstone projects
+# sql capsone project
+This folder includes SQL end to end capstone project with queiries
