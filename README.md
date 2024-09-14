@@ -2,29 +2,29 @@
 
 Utilized MySQL to analyze Amazon's sales data, with the primary goal of gaining insights into the factors influencing sales across different branches. Leveraged SQL to identify and understand the key drivers impacting sales performance, providing valuable data-driven recommendations.
 
-About Data:
+ABOUT DATA
 This dataset contains sales transactions from three different branches of Amazon, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows:
 
 Analysis List
-Product Analysis:
+
+PRODUCT ANALYSIS:
 Conduct analysis on the data to understand the different product lines, the products lines performing best and the product lines that need to be improved.
 
-Sales Analysis:
+SALES ANALYSIS:
 This analysis aims to answer the question of the sales trends of product. The result of this can help us measure the effectiveness of each sales strategy the business applies and what modifications are needed to gain more sales.
 
-Customer Analysis:
+CUSTOMER ANALYSIS:
 This analysis aims to uncover the different customer segments, purchase trends and the profitability of each customer segment.
 
-Approach Used
+APPROACH USED ARE:
 
-Data Wrangling: This is the first step where inspection of data is done to make sure NULL values and missing values are detected and data replacement methods are used to replace missing or NULL values.
-
+DATA WRANGLING: This is the first step where inspection of data is done to make sure NULL values and missing values are detected and data replacement methods are used to replace missing or NULL values.
 
 1.1 Build a database
 1.2 Create a table and insert the data.
 1.3 Select columns with null values in them. There are no null values in our database as in creating the tables, we set NOT  NULL for each field, hence null values are filtered out.
 
-Feature Engineering: This will help us generate some new columns from existing ones.
+FEATURE ENGINEERING: This will help us generate some new columns from existing ones.
 
 2.1 Add a new column named timeofday to give insight of sales in the Morning, Afternoon and Evening. This will help answer the question on which part of the day most sales are made.
 
@@ -32,4 +32,4 @@ Feature Engineering: This will help us generate some new columns from existing o
 
 2.3  Add a new column named monthname that contains the extracted months of the year on which the given transaction took place (Jan, Feb, Mar). Help determine which month of the year has the most sales and profit.
 
-3. Exploratory Data Analysis (EDA): Exploratory data analysis is done to answer the listed questions and aims of this project.
+3. EXPLORATORY DATA ANALYSIS (EDA): Exploratory data analysis is done to answer the listed questions and aims of this project.
