@@ -1,4 +1,5 @@
-# Amazon Sales Project using SQL
+INSIGHTS INTO THE AMAZON SALES DATA
+
 Utilized MySQL to analyze Amazon's sales data, with the primary goal of gaining insights into the factors influencing sales across different branches. Leveraged SQL to identify and understand the key drivers impacting sales performance, providing valuable data-driven recommendations.
 
 About Data:
